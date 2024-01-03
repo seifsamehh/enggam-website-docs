@@ -1,0 +1,14 @@
+{
+  "index": "Introduction",
+  "getting-started": "Getting Started",
+  "categories": "Categories",
+  "faq": "FAQs",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "sale": {
+    "title": "Sale",
+    "type": "page"
+  }
+}
