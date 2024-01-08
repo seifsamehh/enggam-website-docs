@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
     />
   ),
   project: {
-    link: "https://enggam-website.vercel.app/",
+    link: "https://www.enggam.com/",
     icon: (
       <svg
         width="24"
@@ -51,7 +51,7 @@ const config: DocsThemeConfig = {
   banner: {
     key: "1.0-release",
     text: (
-      <a href="https://enggam-website.vercel.app/" target="_blank">
+      <a href="https://www.enggam.com/" target="_blank">
         🎉 ENGGAM 1.0 is released. Read more →
       </a>
     ),
@@ -101,7 +101,7 @@ const config: DocsThemeConfig = {
     text: (
       <span>
         All right reserved {new Date().getFullYear()} ©{" "}
-        <a href="https://enggam-website.vercel.app/" target="_blank">
+        <a href="https://www.enggam.com/" target="_blank">
           ENGGAM
         </a>
         .
